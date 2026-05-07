@@ -1,4 +1,4 @@
-# ⚡ ANALYZER — Kenya Political Intelligence Platform
+# ⚡ SIASAKENYA — Kenya Political Intelligence Platform
 
 A powerful web app for analyzing, simulating, and strategizing Kenyan elections at every level — MCA, MP, Women's Rep, Senator, Governor, to President.
 
